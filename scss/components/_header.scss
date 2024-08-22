@@ -1,0 +1,41 @@
+.navbar {
+    background-color: #0c0c0c;
+  }
+  
+  .logoPrincipal {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+  }
+  
+  .navbar-toggler-icon {
+    color: #ffffff;
+  }
+  
+  .linksBarra {
+    justify-content: center;
+  }
+  
+  .navbar a {
+    color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  .navbar a:hover {
+    color: #ffffff;
+    background-color: #481e14;
+  }
+  
+  .activo {
+    text-decoration: underline;
+    color: #ffffff;
+  }
+  
+  .barraRedes {
+    justify-content: center;
+  }
+  
+  .barraRedes i {
+    padding: 0 5px;
+    width: 26px;
+  }
